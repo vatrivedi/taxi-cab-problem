@@ -14,7 +14,7 @@ namespace taxicabproblem
 
             int n = Convert.ToInt32(Math.Pow(10, s));
 
-            Console.WriteLine("Displaying Results");
+            Console.WriteLine("Displaying Results for Time Complexity O(n2)");
             Console.WriteLine("-------------------------------");
             printTaxiCabNumbers(n);
         }
